@@ -22,4 +22,4 @@ $this->widget('application.extensions.brmap.BrMap',array(
 
 ## Demo And Details
 
-* Access [https://github.com/kenobifoundation/brmap](here).
+* Access [here](https://github.com/kenobifoundation/brmap).
